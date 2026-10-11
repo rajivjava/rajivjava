@@ -35,7 +35,7 @@ I am particularly interested in translating evidence into **clear insights that 
 ## 🌱 Currently Learning
 
 - Python for data analysis
-- Power BI for data visualisation
+- Microsoft Power BI and Tableau for data visualisation
 - Quantitative and mixed-methods research
 - Data-driven approaches to social and policy research
 
