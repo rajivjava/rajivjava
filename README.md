@@ -20,7 +20,7 @@ I am an early-career professional interested in **public policy, social science 
 - FormSG
 
 **Data & Visualisation**
-- Power BI
+- Microsoft Power BI
 
 **Others**
 - Microsoft 365
